@@ -1,1 +1,1 @@
-Socket io ne ona bakıyorum. Hiçbir kod atmadım.
+node modules klasörünü attırtmıyo, kafayı yicem
